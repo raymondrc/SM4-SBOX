@@ -1,0 +1,272 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/GITHUB/SM4-SBOX
+vBottom
+Z1 !s110 1561355655
+!i10b 1
+!s100 VeHeG5]odFNHN]fHaQVH>2
+IbhoBoXSY?kAc0fFMFzWAD1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1561354013
+Z4 8sbox.v
+Z5 Fsbox.v
+L0 183
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1561355655.000000
+Z8 !s107 tb_sbox.v|sbox_ref.v|sbox.v|
+Z9 !s90 -reportprogress|300|-work|work|-lint|-hazards|sbox.v|sbox_ref.v|tb_sbox.v|
+!i113 1
+Z10 o-work work -lint -hazards
+Z11 tCvgOpt 0
+n@bottom
+vInput
+R1
+!i10b 1
+!s100 hKU4TE15>jm3BRfR0KY`g3
+INPncnRm`B4]RnDGHY0[3z0
+R2
+R0
+R3
+R4
+R5
+L0 42
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@input
+vMiddle
+R1
+!i10b 1
+!s100 S^;d=0n]GEKb:=EY4A:TV2
+IT;A9C20iQOAV<RY2h2?=h2
+R2
+R0
+R3
+R4
+R5
+L0 143
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@middle
+vNAND
+R1
+!i10b 1
+!s100 baW:]l<G5aCFmOiU>U:6A2
+IcG616PQD;P>ioG9aRTn5h2
+R2
+R0
+R3
+R4
+R5
+L0 29
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@n@a@n@d
+vNOR
+R1
+!i10b 1
+!s100 KY7SnBX^:R9K>2e5TNa[=0
+IQoZaT8>A>@]]31GjRm]JY0
+R2
+R0
+R3
+R4
+R5
+L0 35
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@n@o@r
+vOutput
+R1
+!i10b 1
+!s100 1iiTidXB[EGQ29PY8l7OL2
+IHdP:@fFkEYX6?i]::E^PX2
+R2
+R0
+R3
+R4
+R5
+L0 220
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@output
+vsbox_ref
+R1
+!i10b 1
+!s100 2c]b^kKXJB26RbRNX9hee3
+I[]@c24GYV8J6Tm9]dKh>a2
+R2
+R0
+R3
+8sbox_ref.v
+Fsbox_ref.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vSM4
+R1
+!i10b 1
+!s100 chlNodQ6@Q2D9bE4nVhT_3
+I7`Vb3WV>V_]Ae5hToa]lj1
+R2
+R0
+R3
+R4
+R5
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@s@m4
+vtb_sbox
+R1
+!i10b 1
+!s100 kKGMoFn]J:Lhka44S;IE^1
+IeT9OPQliKIePmb>YRl_<Y1
+R2
+R0
+R3
+8tb_sbox.v
+Ftb_sbox.v
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vTop
+R1
+!i10b 1
+!s100 YJ4i3B9ECobjMK[zVnlI<3
+Inj5`Y?gY``SLVW^m^mg[f0
+R2
+R0
+R3
+R4
+R5
+L0 84
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@top
+vXNOR
+R1
+!i10b 1
+!s100 `D9k8F9;<[Uz>UhhzL3Q13
+I0Oi0XiWZX0<?=IDR_Ooib3
+R2
+R0
+R3
+R4
+R5
+L0 23
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@x@n@o@r
+vXOR
+R1
+!i10b 1
+!s100 >9nS?eY0A9NH@kTSfG4nf0
+IM3jAkRB@`86azm9[AL;a?1
+R2
+R0
+R3
+R4
+R5
+L0 17
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@x@o@r
